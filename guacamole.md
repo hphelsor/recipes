@@ -6,5 +6,6 @@ romme
 havsalt
 sukker
 
-Fjernet test
 Oppskrift
+steg 1
+
