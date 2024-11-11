@@ -6,5 +6,4 @@ romme
 havsalt
 sukker
 
-test
-
+Fjernet test
