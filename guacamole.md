@@ -3,4 +3,6 @@
 1 lime
 krydder
 romme
+salt
+sukker
 
