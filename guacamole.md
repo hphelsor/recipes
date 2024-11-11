@@ -3,6 +3,6 @@
 1 lime
 krydder
 romme
-salt
+havsalt
 sukker
 
